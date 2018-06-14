@@ -1,4 +1,4 @@
-package com.rodriguemouadeu.ocjp092018.chap07.q3;
+package com.rodriguemouadeu.chap07.q3;
 
 public class Clumsy {
 	public static void main(String... args) {

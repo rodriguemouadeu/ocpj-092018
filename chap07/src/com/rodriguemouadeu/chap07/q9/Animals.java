@@ -1,4 +1,4 @@
-package com.rodriguemouadeu.ocjp092018.chap07.q9;
+package com.rodriguemouadeu.chap07.q9;
 
 public class Animals {
 	

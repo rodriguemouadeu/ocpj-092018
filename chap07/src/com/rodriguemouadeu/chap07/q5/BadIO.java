@@ -1,4 +1,4 @@
-package com.rodriguemouadeu.ocjp092018.chap07.q5;
+package com.rodriguemouadeu.chap07.q5;
 
 import java.io.IOException;
 import java.sql.SQLException;

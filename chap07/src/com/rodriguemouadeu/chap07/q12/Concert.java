@@ -1,4 +1,4 @@
-package com.rodriguemouadeu.ocjp092018.chap07.q12;
+package com.rodriguemouadeu.chap07.q12;
 
 public class Concert {
 

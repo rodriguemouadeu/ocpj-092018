@@ -1,4 +1,4 @@
-package com.rodriguemouadeu.ocjp092018.chap07.q8;
+package com.rodriguemouadeu.chap07.q8;
 
 public class MultipleResources {
 	class Lamb implements AutoCloseable {

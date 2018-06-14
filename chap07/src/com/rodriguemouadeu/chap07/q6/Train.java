@@ -1,4 +1,4 @@
-package com.rodriguemouadeu.ocjp092018.chap07.q6;
+package com.rodriguemouadeu.chap07.q6;
 
 public class Train {
 	class RanOutOfTrack extends Exception {
