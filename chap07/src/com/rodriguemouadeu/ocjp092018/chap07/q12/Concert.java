@@ -1,4 +1,4 @@
-package chap07.q12;
+package com.rodriguemouadeu.ocjp092018.chap07.q12;
 
 public class Concert {
 
@@ -13,7 +13,7 @@ public class Concert {
 			new Concert().listen();
 			System.out.println("a");
 		} catch (PowerOutage | ThunderStorm e){
-			e = new PowerOutage(); // Not allowed to reassign the exception when using multi-catch clause
+			//e = new PowerOutage(); // Not allowed to reassign the exception when using multi-catch clause
 			System.out.println("b");
 		} finally {
 			System.out.println("c");

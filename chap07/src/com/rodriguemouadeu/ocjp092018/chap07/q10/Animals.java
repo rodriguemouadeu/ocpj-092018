@@ -1,4 +1,4 @@
-package chap07.q10;
+package com.rodriguemouadeu.ocjp092018.chap07.q10;
 
 import java.io.Closeable;
 import java.io.IOException;

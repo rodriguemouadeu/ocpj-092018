@@ -1,4 +1,4 @@
-package chap07.q7;
+package com.rodriguemouadeu.ocjp092018.chap07.q7;
 
 public class Conductor {
 
